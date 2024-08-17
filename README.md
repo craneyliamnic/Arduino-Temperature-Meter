@@ -2,6 +2,7 @@
 
 <div align="center">
   The Arduino gains the Ability to Measure temparature, and will display it using a Led Stripe.
+  
   !The code wont be updated!
 </div>
 <div align="center">
