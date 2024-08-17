@@ -1,7 +1,8 @@
 <h1 align="center">Arduino Temperature Meter</h1>
 
 <div align="center">
-  The Arduino gaisn the Ability to Measure temparature, and will display it using a Led Stripe.
+  The Arduino gains the Ability to Measure temparature, and will display it using a Led Stripe.
+  !The code wont be updated!
 </div>
 <div align="center">
   <h3>It will look like this</h3>
